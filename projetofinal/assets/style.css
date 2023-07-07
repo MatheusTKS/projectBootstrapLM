@@ -1,0 +1,9 @@
+#carouselExampleCaptions{
+    height: 50vh;
+    background-color: lightgrey;
+}
+.icons{
+ display: flex;
+ justify-content: center;
+}
+
